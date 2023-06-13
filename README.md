@@ -8,5 +8,5 @@
     - Windows: <kbd>WIN</kbd> + <kbd>R</kbd> and enter `.vscode`.
     - Mac OS: Open `Finder`, <kbd>Shift</kbd> + <kbd>CMD</kbd> + <kbd>G</kbd>, `~/.vscode`.
 4. Move the `night-shade` folder into the `extensions` folder.
-5. Open Visual Studio Code and click on the User Settings cog > `Themes` > `Color Theme`.
+5. Open Visual Studio Code and click on <kbd>⚙ `User Settings`</kbd> > `Themes` > `Color Theme`.
 6. `Night Shade` should appear under `Dark Themes`.
