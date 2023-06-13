@@ -1,0 +1,21 @@
+{
+  "name": "night-shade",
+  "displayName": "Night Shade",
+  "description": "Night Shade Theme for VSCode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Night Shade",
+        "uiTheme": "vs-dark",
+        "path": "./themes/night-shade-color-theme.json"
+      }
+    ]
+  }
+}
